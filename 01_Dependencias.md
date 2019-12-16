@@ -1,2 +1,2 @@
-Dependencias básicas:
+#Dependencias básicas:
 
